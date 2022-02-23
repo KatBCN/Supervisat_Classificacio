@@ -1,6 +1,8 @@
 # Supervisat_Classificacio
 Sprint 10 - Task 1 - Classification
 
+Due to the length of the exercise and the number of different steps involved, I have created 4 notebooks. There is one notebook for pre-processing of the dataset, and 3 notebooks for the 3 different classification models used.
+
 Practice and become familiar with classification algorithms.
 
 Level 1
